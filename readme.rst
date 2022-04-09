@@ -1,3 +1,4 @@
+Path: http://localhost/code/registration/add
 ###################
 What is CodeIgniter
 ###################
